@@ -8,7 +8,7 @@ pursuing my B.Tech from <a href="https://pict.edu/#"> Pune Institute of Computer
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="500" height="500" />
 
-- ✍ You can find my resume here [Resume]
+- ✍ You can find my resume here <a href="https://drive.google.com/file/d/1Ir2fAnEVMhyfabDXhW0HtXmYZN1RH6gu/view">Resume</a>
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: yashp9145@gmail.com
@@ -27,9 +27,8 @@ pursuing my B.Tech from <a href="https://pict.edu/#"> Pune Institute of Computer
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
 
