@@ -8,7 +8,7 @@ pursuing my B.Tech from <a href="https://pict.edu/#"> Pune Institute of Computer
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="500" height="500" />
 
-- ✍ You can find my resume here <a href="https://drive.google.com/file/d/1Ir2fAnEVMhyfabDXhW0HtXmYZN1RH6gu/view">Resume</a>
+- ✍ You can find my resume here <a href="https://drive.google.com/file/d/1ltu_dFUdKTQCCTsRTXuCv0wBFJO7oyJu/view?usp=sharing">Resume</a>
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: yashp9145@gmail.com
